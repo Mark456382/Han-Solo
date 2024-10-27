@@ -1,0 +1,6 @@
+train: C:\Users\romat\OneDrive\Desktop\HACK_PFO\split_dataset_output\images\train
+val: C:\Users\romat\OneDrive\Desktop\HACK_PFO\split_dataset_output\images\val
+test: C:\Users\romat\OneDrive\Desktop\HACK_PFO\split_dataset_output\images\test
+
+nc: 2
+names: ['no_flood', 'flood']
